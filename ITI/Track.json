@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "Name": "FrontEnd"
+  },
+  {
+    "Id": 2,
+    "Name": "MobilApplication"
+  },
+  {
+    "Id": 3,
+    "Name": "BackEnd"
+  },
+  {
+    "Id": 4,
+    "Name": "AI New Version"
+  },
+  {
+    "Id": 5,
+    "Name": "UI/UX"
+  },
+  {
+    "Id": 6,
+    "Name": "Network"
+  }
+]

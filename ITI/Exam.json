@@ -1,0 +1,131 @@
+[
+  {
+    "TrackId": 1,
+    "CourseId": 5,
+    "ExamId": 1,
+    "Questions": [
+      {
+        "QuestionId": 0,
+        "QuestionDesc": "asdasldkjasd",
+        "QuestionChoices": [
+          [
+            "0",
+            "asdasd"
+          ],
+          [
+            "1",
+            "ad"
+          ],
+          [
+            "2",
+            "fasf"
+          ],
+          [
+            "3",
+            "asdasd"
+          ],
+          [
+            "4",
+            "asfasfasf"
+          ]
+        ],
+        "QuestionAwnser": 3
+      }
+    ]
+  },
+  {
+    "TrackId": 1,
+    "CourseId": 38,
+    "ExamId": 2,
+    "Questions": [
+      {
+        "QuestionId": 1,
+        "QuestionDesc": "BackEnd Language",
+        "QuestionChoices": [
+          [
+            "0",
+            "Css"
+          ],
+          [
+            "1",
+            "HTML"
+          ],
+          [
+            "2",
+            "c#"
+          ],
+          [
+            "3",
+            "Bootstrap"
+          ],
+          [
+            "4",
+            "Saas"
+          ]
+        ],
+        "QuestionAwnser": 2
+      },
+      {
+        "QuestionId": 1,
+        "QuestionDesc": "BackEnd Language",
+        "QuestionChoices": [
+          [
+            "0",
+            "Css"
+          ],
+          [
+            "1",
+            "HTML"
+          ],
+          [
+            "2",
+            "c#"
+          ],
+          [
+            "3",
+            "Bootstrap"
+          ],
+          [
+            "4",
+            "Saas"
+          ]
+        ],
+        "QuestionAwnser": 2
+      }
+    ]
+  },
+  {
+    "TrackId": 1,
+    "CourseId": 5,
+    "ExamId": 12,
+    "Questions": [
+      {
+        "QuestionId": 0,
+        "QuestionDesc": "askdjasd",
+        "QuestionChoices": [
+          [
+            "0",
+            "asdasd"
+          ],
+          [
+            "1",
+            "asdasd"
+          ],
+          [
+            "2",
+            "asdasd"
+          ],
+          [
+            "3",
+            "asdasd"
+          ],
+          [
+            "4",
+            "asdasd"
+          ]
+        ],
+        "QuestionAwnser": 2
+      }
+    ]
+  }
+]
